@@ -6,11 +6,11 @@ Il dataset per i cartelli stradali è il [German Traffic Singn Recognition Bench
 **N.B** I due dataset sono già all'interno delle due cartelle del progetto, quindi non è necessario scaricarli dai link in sovraimpressione.
 
 ## Istruzioni per l'uso
-1. Scarica una versione di python uguale o successiva al 3.11
-2. scarica Jupyter per poter visualizzare i notebook
+1. Scarica una versione di python uguale o successiva alla 3.10
+2. Scarica Jupyter per poter visualizzare i notebook
 3. Installa le seguenti librerie con il comando **pip install numpy pandas tensorflow keras matplotlib tqdm**
-4. Clona il repository **git clone <https://github.com/godfredboateng02/MDP>**
-5. 
+4. Clona il repository con il comando **git clone <https://github.com/godfredboateng02/MDP>**
+   
 ### Riconoscimento dei numeri scritti a mano
 Per fare il training della Rete Artificiale Neurale e per utilizzare il pad basterà:
 1. Eseguire tutti i codici nel notebook **numeri.ipynb**
